@@ -1,3 +1,7 @@
+Name: AKIF ASYRANI BIN MOhAMAD IZANI
+Matric: 2210267
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -105,3 +109,12 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## Experiment
+
+Table <br>
+|h1|h2|h3|
+|---|---|---|
+|1|2|3|
+|1|2|3|
+
