@@ -36,9 +36,6 @@ To showcase markdown skills, here's an example table:
 
 ---
 
-## Closing Thoughts
-This exercise helped me understand how GitHub repositories are structured and the importance of clear documentation for collaboration and learning.
-
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
