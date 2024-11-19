@@ -1,8 +1,43 @@
-Name: AKIF ASYRANI BIN MOhAMAD IZANI
-Matric: 2210267
-
-
 # :wave: The Basics of GitHub 
+
+## 🤓 Course overview and learning outcomes 
+
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+
+---
+
+- **Name**: Akif Asyrani Bin Mohamad Izani
+- **Matric ID**: 2210267
+
+---
+
+## What I've Done
+I didn't add much to this project since the README primarily provides an introduction to GitHub. However, I did the following:
+1. Reviewed the README to understand the purpose of the repository.
+2. Added my name and matric ID for identification purposes.
+3. Experimented with basic markdown features by adding a table under the "Experiment" section.
+
+---
+
+## Why My Contributions Are Unique
+My contributions are minimal but aim to demonstrate:
+- **Attention to detail**: Understanding and respecting the purpose of the repository without making unnecessary changes.
+- **Practical experimentation**: Adding a simple table as an example of markdown formatting to explore GitHub's capabilities.
+
+---
+
+## Experiment Section
+To showcase markdown skills, here's an example table:
+
+| h1 | h2 | h3 |
+|----|----|----|
+| 1  | 2  | 3  |
+| A  | B  | C  |
+
+---
+
+## Closing Thoughts
+This exercise helped me understand how GitHub repositories are structured and the importance of clear documentation for collaboration and learning.
 
 ## 🤓 Course overview and learning outcomes 
 
