@@ -21,8 +21,8 @@ I didn't add much to this project since the README primarily provides an introdu
 
 ## Why My Contributions Are Unique
 My contributions are minimal but aim to demonstrate:
-- **Attention to detail**: Understanding and respecting the purpose of the repository without making unnecessary changes.
-- **Practical experimentation**: Adding a simple table as an example of markdown formatting to explore GitHub's capabilities.
+- Understanding the purpose of the repository without making unnecessary changes.
+- Adding a simple table as an example of markdown formatting to explore GitHub's capabilities.
 
 ---
 
